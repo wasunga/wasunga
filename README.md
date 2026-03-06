@@ -9,6 +9,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 💬 Ask me about ...
 - 📫 How to reach me: 20220026735@my.xu.edu.ph
 - Fun Fact : I love to play mobile games.
+- Fun Fact: I love anime
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
